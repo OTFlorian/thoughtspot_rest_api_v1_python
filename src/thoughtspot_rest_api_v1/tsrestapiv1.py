@@ -1172,7 +1172,7 @@ class TSRestApiV1:
         post_data = {
             'name': username,
             'password': password,
-            'display_name': display_name,
+            'displayname': display_name,
             'usertype': user_type,
             'visibility': visibility
         }
