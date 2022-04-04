@@ -488,7 +488,7 @@ class TSRestApiV1:
 
         post_data = {
             'name': group_name,
-            'display_name': display_name,
+            'displayname': display_name,
             'grouptype': group_type,
             'visibility': visibility
         }
